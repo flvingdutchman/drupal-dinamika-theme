@@ -1,0 +1,21 @@
+{
+  "name": "vaninv/dinamika_theme",
+  "description": "Dinamika blog theme.",
+  "type": "drupal-theme",
+  "homepage": "https://dinamika.team",
+  "authors": [
+    {
+      "name": "Vasily Vanin (vaninv)",
+      "homepage": "https://www.drupal.org/u/vaninv",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/vaninv/drupal-dinamika-theme/issues",
+    "source": "https://github.com/vaninv/drupal-dinamika-theme.git"
+  },
+  "license": "Apache-2.0",
+  "minimum-stability": "dev",
+  "require": {
+  }
+}

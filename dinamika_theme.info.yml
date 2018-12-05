@@ -1,0 +1,10 @@
+name: Dinamika Theme
+type: theme
+description: 'Base theme for Dinamika Publishing Application'
+package: Dinamika
+core: 8.x
+libraries:
+  - dinamika_theme/global-styling
+ 
+base theme: classy
+

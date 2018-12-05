@@ -1,0 +1,22 @@
+{
+  "name": "dinamika_theme",
+  "version": "1.0.0",
+  "description": "Drupal 8.x theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaninv/drupal-dinamika-theme.git"
+  },
+  "keywords": [
+    "Drupal"
+  ],
+  "author": "Vasily Vanin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaninv/drupal-dinamika-theme/issues"
+  },
+  "homepage": "https://github.com/vaninv/drupal-dinamika-theme#readme"
+}
